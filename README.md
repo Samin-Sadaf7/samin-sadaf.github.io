@@ -51,7 +51,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+1. Soyeb, Md & Mahdin, Mukit & Sadaf, Samin & Azwad, Mirza & Abrar, Ajwad. (2025). TYMBERT: Tiny Yet Mighty– Fine-Tuned and Compressed TinyBERT for High-Accuracy, Low-Resource NLP. 
+2. Naher, J., Maruf, M.H., Bakht, S.T. and Sadaf, S.S., 2023. A Survey to Understand the experience of ChatGPT Usage among Engineering University Students in Bangladesh. Technium, 15.
 
 
