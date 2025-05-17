@@ -4,7 +4,7 @@
 
 ## Education			        		
 - B.Sc., Software Engineering | Islamic University of Technology (_July 2021 - Present_)
-- HSC, Science                      |         Notre Dame College               (_2020_)
+- HSC,   Science              |         Notre Dame College               (_2020_)
   
 ## Work Experience
 **AI Engineer Intern @ Kernel International Ltd (_May 2024 - September 2024_)**
