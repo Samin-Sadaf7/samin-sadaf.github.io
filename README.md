@@ -13,8 +13,7 @@
 - Designed and implemented a **NoSQL-based topic management system** to structure and retrieve medical topics and subtopics effectively.  
 - Integrated multiple **LLMs (GPT-4, LLAMA, Gemini)** into the chatbot system using **LangChain**, enabling contextual responses to complex medical queries.  
 - Applied prompt engineering to **generate, evaluate, and refine** multiple-choice questions from retrieved context for student learning enhancement.  
-- Utilized **LangGraph** for workflow visualization and **LangServe** for deploying the RAG system as an API service.  
-- Contributed to backend enhancements using **Python**, **Unstructured Library**, and **Ollama** for document parsing and model integration.  
+- Utilized **LangGraph** for workflow visualization   
 
 ![Medical Books RAG](/assets/img/Medibee_AI.png)
 
