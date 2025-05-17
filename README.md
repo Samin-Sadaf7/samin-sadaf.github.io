@@ -1,6 +1,6 @@
 # Software Engineering Student
 
-#### Technical Skills: Python, SQL, NoSQL, OpenAPI, JavaScript, Node Js, Langchain, Pytorch 
+#### Technical Skills: Python, SQL, NoSQL, FastAPI, MongoDB, JavaScript, Node JS, Express JS, Langchain, Pytorch
 
 ## Education			        		
 - B.Sc., Software Engineering | Islamic University of Technology (_July 2021 - Present_)
@@ -19,7 +19,6 @@
 
 ## Projects
 ### BDTSD-YOLO for Bangldeshi Traffic Sign Detection
-Pytorch, Ultralytics
 
 In this work, A new block was propsed in MHAF-YOLO **a dual‑path C3‑style module** that serves as the core of BDTSD‑YOLO. I along with a team of 3 members designed the block by splitting the input feature map into two parallel branches: one follows a lightweight bottleneck pathway to preserve fine spatial details, while the other performs deeper convolutional operations to capture richer semantic features. These branches are then concatenated and passed through a final 1×1 convolution. This was integrated into the already built **MHAF-YOLO**  using **PyTorch**. This design enhances the model’s ability to detect small and distant Bangladeshi traffic signs more accurately by balancing spatial precision with semantic depth.
 
@@ -27,26 +26,22 @@ In this work, A new block was propsed in MHAF-YOLO **a dual‑path C3‑style mo
 ![Traffic Sign Detection](/assets/img/Traffic_Sign.png)
 
 ### The Red Owl - Connect IUTians Worldwide GitHub Link
-Node.js, Express.js, MongoDB, React.js
 [Github](https://github.com/Samin-Sadaf7/TheRedOwl.git)
 
-In this project, I developed key features including user profile creation, authentication, and email verification. I also implemented a robust search system with advanced filters to help users easily navigate profiles, events, and blog posts, fostering a dynamic and connected community.
+In this project, I engineered a full-stack web platform using **Node.js**, **Express.js**, **MongoDB**, and **React.js** to connect IUT students, teachers, and alumni. I implemented core features such as user profile creation, secure authentication, and email verification. Additionally, I built an advanced search system with dynamic filters for profiles, events, and blog posts—enhancing user engagement and streamlining access to relevant content within the community.
 
 ![RedOwl](/assets/img/redowl.png)
 
 ### Rong - An Event Management Platform
-Node.js, Express.js, MongoDB, React.js
 [Github](https://github.com/Samin-Sadaf7/Rong---An-event-management-system.git)
 
-On a three‑person team, I helped create an **event‑management website**. I implemented customer profiles with email verification and ticket‑booking functionality, added a customer review section for post‑event feedback, and integrated secure payments by building the checkout flow with the **Stripe API**.
+On a three‑person team, I helped create an **event‑management website**. I designed the customer profiles with email verification and ticket‑booking functionality, added a customer review section for post‑event feedback, and integrated secure payments by building the checkout flow with the **Stripe API**. The frontend was done using **React JS**, backend was done using **Express JS**, and as a database **MongoDB** was integrated. 
 
 ![Rong Platform](/assets/img/rong.png)
 
 ### Collborative ChatGPT- Group Study with AI assistant
-Python, FastAPI, Next Js, MongoDB 
 
-I developed a **collaborative tool powered by ChatGPT** to enhance user‑AI interaction. The system features error categorization and automatic response correction, allowing users to identify and refine inaccurate outputs. I also integrated the **ChatGPT API** to enable iterative feedback loops for continuous model improvement.
-
+Using **FastAPI**, and **MongoDB**, I developed a **collaborative tool powered by ChatGPT** to streamline and enhance user‑AI interaction. The platform includes intelligent error categorization and automatic response correction, enabling users to identify and refine inaccurate outputs. I also integrated the **ChatGPT API** to support iterative feedback loops, facilitating continuous improvement of AI-generated responses in real-time.
 
 ![Collaborative ChatGPT](/assets/img/CollaborativeGPT.png)
 
