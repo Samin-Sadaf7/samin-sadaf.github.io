@@ -5,7 +5,6 @@
 ## Education			        		
 - B.Sc., Software Engineering | Islamic University of Technology (_July 2021 - Present_)
 - HSC, Science | Notre Dame College (_2020_)
-- SSC, Science | Motijheel Government Boys' High School (_2018_)
   
 ## Work Experience
 **AI Engineer Intern @ Kernel International Ltd (_May 2024 - September 2024_)**
