@@ -1,10 +1,14 @@
-# Software Engineering Student
+# Samin Sadaf
+
+<p align="center">
+  <a href="/assets/resume.pdf" target="_blank">
+        <strong>Click here to view my resume</strong>
+  </a>
+</p>
 
 #### Technical Skills: Python, SQL, NoSQL, FastAPI, MongoDB, JavaScript, Node JS, Express JS, Langchain, Pytorch
 
-## 📄 Resume
-
-[Click here to view my resume](/assets/resume.pdf)
+#### Technical Skills: Python, SQL, NoSQL, FastAPI, MongoDB, JavaScript, Node JS, Express JS, Langchain, Pytorch
 
 ## Education			        		
 - B.Sc., Software Engineering | Islamic University of Technology (_July 2021 - Present_)
