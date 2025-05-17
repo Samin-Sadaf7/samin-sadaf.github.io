@@ -2,6 +2,10 @@
 
 #### Technical Skills: Python, SQL, NoSQL, FastAPI, MongoDB, JavaScript, Node JS, Express JS, Langchain, Pytorch
 
+## 📄 Resume
+
+[Click here to view my resume](/assets/resume.pdf)
+
 ## Education			        		
 - B.Sc., Software Engineering | Islamic University of Technology (_July 2021 - Present_)
 - HSC,   Science              |         Notre Dame College               (_2020_)
@@ -47,7 +51,12 @@ Using **FastAPI**, and **MongoDB**, I developed a **collaborative tool powered b
 
 
 ## Publications
-1. Soyeb, Md & Mahdin, Mukit & Sadaf, Samin & Azwad, Mirza & Abrar, Ajwad. (2025). TYMBERT: Tiny Yet Mighty– Fine-Tuned and Compressed TinyBERT for High-Accuracy, Low-Resource NLP. 
-2. Naher, J., Maruf, M.H., Bakht, S.T. and Sadaf, S.S., 2023. A Survey to Understand the experience of ChatGPT Usage among Engineering University Students in Bangladesh. Technium, 15.
+## Publications
+
+1. Soyeb, Md, Mahdin, Mukit, Sadaf, Samin, Azwad, Mirza, & Abrar, Ajwad. (2025). TYMBERT: Tiny Yet Mighty – Fine-Tuned and Compressed TinyBERT for High-Accuracy, Low-Resource NLP.  
+   [Link to paper](https://www.researchgate.net/publication/391627993_TYMBERT_Tiny_Yet_Mighty-_Fine-Tuned_and_Compressed_TinyBERT_for_High-Accuracy_Low-Resource_NLP) 
+
+2. Naher, J., Maruf, M.H., Bakht, S.T., and Sadaf, S.S., 2023. A Survey to Understand the experience of ChatGPT Usage among Engineering University Students in Bangladesh. Technium, 15.  
+   [Link to paper](https://www.academia.edu/download/117813765/3587.pdf)
 
 
