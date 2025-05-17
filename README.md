@@ -25,7 +25,7 @@ In this work, A new block was propsed in MHAF-YOLO **a dual‑path C3‑style mo
 
 ![Traffic Sign Detection](/assets/img/Traffic_Sign.png)
 
-### The Red Owl - Connect IUTians Worldwide GitHub Link
+### The Red Owl - Connect IUTians Worldwide 
 [Github](https://github.com/Samin-Sadaf7/TheRedOwl.git)
 
 In this project, I engineered a full-stack web platform using **Node.js**, **Express.js**, **MongoDB**, and **React.js** to connect IUT students, teachers, and alumni. I implemented core features such as user profile creation, secure authentication, and email verification. Additionally, I built an advanced search system with dynamic filters for profiles, events, and blog posts—enhancing user engagement and streamlining access to relevant content within the community.
