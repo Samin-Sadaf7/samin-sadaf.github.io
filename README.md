@@ -1,4 +1,6 @@
-# Samin Sadaf
+# Software Engineering Student
+
+[📄 Click here to view my resume](/assets/resume.pdf) 
 
 #### Technical Skills: Python, SQL, NoSQL, FastAPI, MongoDB, JavaScript, Node JS, Express JS, Langchain, Pytorch
 
