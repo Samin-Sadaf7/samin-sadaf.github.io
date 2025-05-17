@@ -17,21 +17,37 @@
 - Utilized **LangGraph** for workflow visualization and **LangServe** for deploying the RAG system as an API service.  
 - Contributed to backend enhancements using **Python**, **Unstructured Library**, and **Ollama** for document parsing and model integration.  
 
+![Medical Books RAG](/assets/img/Medibee_AI.png)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### BDTSD-YOLO for Bangldeshi Traffic Sign Detection
+Pytorch, Ultralytics
+
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+
+![Traffic Sign Detection](/assets/img/Traffic_Sign.png)
+
+### The Red Owl - Connect IUTians Worldwide GitHub Link
+Node.js, Express.js, MongoDB, React.js
+[Github](https://github.com/Samin-Sadaf7/TheRedOwl.git)
+
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+
+
+### Rong - An Event Management Platform
+Node.js, Express.js, MongoDB, React.js
+[Github](https://github.com/Samin-Sadaf7/Rong---An-event-management-system.git)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Collborative ChatGPT- Group Study with AI assistant
+Python, FastAPI, Next Js, MongoDB 
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Collaborative ChatGPT](/assets/img/CollaborativeGPT.png)
 
 
 
