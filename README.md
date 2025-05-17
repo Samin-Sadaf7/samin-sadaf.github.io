@@ -1,13 +1,5 @@
 # Samin Sadaf
 
-<p align="center">
-  <a href="/assets/resume.pdf" target="_blank">
-        <strong>Click here to view my resume</strong>
-  </a>
-</p>
-
-#### Technical Skills: Python, SQL, NoSQL, FastAPI, MongoDB, JavaScript, Node JS, Express JS, Langchain, Pytorch
-
 #### Technical Skills: Python, SQL, NoSQL, FastAPI, MongoDB, JavaScript, Node JS, Express JS, Langchain, Pytorch
 
 ## Education			        		
@@ -54,7 +46,6 @@ Using **FastAPI**, and **MongoDB**, I developed a **collaborative tool powered b
 ![Collaborative ChatGPT](/assets/img/CollaborativeGPT.png)
 
 
-## Publications
 ## Publications
 
 1. Soyeb, Md, Mahdin, Mukit, Sadaf, Samin, Azwad, Mirza, & Abrar, Ajwad. (2025). TYMBERT: Tiny Yet Mighty – Fine-Tuned and Compressed TinyBERT for High-Accuracy, Low-Resource NLP.  
