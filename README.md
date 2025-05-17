@@ -1,7 +1,5 @@
 # Software Engineering Student
 
-[📄 Click here to view my resume](/assets/resume.pdf) 
-
 #### Technical Skills: Python, SQL, NoSQL, FastAPI, MongoDB, JavaScript, Node JS, Express JS, Langchain, Pytorch
 
 ## Education			        		
@@ -56,4 +54,6 @@ Using **FastAPI**, and **MongoDB**, I developed a **collaborative tool powered b
 2. Naher, J., Maruf, M.H., Bakht, S.T., and Sadaf, S.S., 2023. A Survey to Understand the experience of ChatGPT Usage among Engineering University Students in Bangladesh. Technium, 15.  
    [Link to paper](https://www.academia.edu/download/117813765/3587.pdf)
 
+## Resume
 
+[📄 Click here to view my resume](/assets/resume.pdf) 
