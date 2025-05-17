@@ -4,7 +4,7 @@
 
 ## Education			        		
 - B.Sc., Software Engineering | Islamic University of Technology (_July 2021 - Present_)
-- HSC, Science | Notre Dame College (_2020_)
+- HSC, Science                | Notre Dame College               (_2020_)
   
 ## Work Experience
 **AI Engineer Intern @ Kernel International Ltd (_May 2024 - September 2024_)**
@@ -21,7 +21,8 @@
 ### BDTSD-YOLO for Bangldeshi Traffic Sign Detection
 Pytorch, Ultralytics
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+In this work, A new block was propsed in MHAF-YOLO **a dual‑path C3‑style module** that serves as the core of BDTSD‑YOLO. I along with a team of 3 members designed the block by splitting the input feature map into two parallel branches: one follows a lightweight bottleneck pathway to preserve fine spatial details, while the other performs deeper convolutional operations to capture richer semantic features. These branches are then concatenated and passed through a final 1×1 convolution. This was integrated into the already built **MHAF-YOLO**  using **PyTorch**. This design enhances the model’s ability to detect small and distant Bangladeshi traffic signs more accurately by balancing spatial precision with semantic depth.
+
 
 ![Traffic Sign Detection](/assets/img/Traffic_Sign.png)
 
@@ -29,21 +30,23 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 Node.js, Express.js, MongoDB, React.js
 [Github](https://github.com/Samin-Sadaf7/TheRedOwl.git)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+In this project, I developed key features including user profile creation, authentication, and email verification. I also implemented a robust search system with advanced filters to help users easily navigate profiles, events, and blog posts, fostering a dynamic and connected community.
 
+![RedOwl](/assets/img/redowl.png)
 
 ### Rong - An Event Management Platform
 Node.js, Express.js, MongoDB, React.js
 [Github](https://github.com/Samin-Sadaf7/Rong---An-event-management-system.git)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+On a three‑person team, I helped create an **event‑management website**. I implemented customer profiles with email verification and ticket‑booking functionality, added a customer review section for post‑event feedback, and integrated secure payments by building the checkout flow with the **Stripe API**.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Rong Platform](/assets/img/rong.png)
 
 ### Collborative ChatGPT- Group Study with AI assistant
 Python, FastAPI, Next Js, MongoDB 
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+I developed a **collaborative tool powered by ChatGPT** to enhance user‑AI interaction. The system features error categorization and automatic response correction, allowing users to identify and refine inaccurate outputs. I also integrated the **ChatGPT API** to enable iterative feedback loops for continuous model improvement.
+
 
 ![Collaborative ChatGPT](/assets/img/CollaborativeGPT.png)
 
