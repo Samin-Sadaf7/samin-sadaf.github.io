@@ -4,7 +4,7 @@
 
 ## Education			        		
 - B.Sc., Software Engineering | Islamic University of Technology (_July 2021 - Present_)
-- HSC, Science                |         Notre Dame College               (_2020_)
+- HSC, Science                      |         Notre Dame College               (_2020_)
   
 ## Work Experience
 **AI Engineer Intern @ Kernel International Ltd (_May 2024 - September 2024_)**
@@ -30,14 +30,14 @@ In this work, A new block was propsed in MHAF-YOLO **a dual‑path C3‑style mo
 
 In this project, I engineered a full-stack web platform using **Node.js**, **Express.js**, **MongoDB**, and **React.js** to connect IUT students, teachers, and alumni. I implemented core features such as user profile creation, secure authentication, and email verification. Additionally, I built an advanced search system with dynamic filters for profiles, events, and blog posts—enhancing user engagement and streamlining access to relevant content within the community.
 
-![RedOwl](/assets/img/redowl.png)
+![RedOwl](/assets/img/redowl.jpg)
 
 ### Rong - An Event Management Platform
 [Github](https://github.com/Samin-Sadaf7/Rong---An-event-management-system.git)
 
 On a three‑person team, I helped create an **event‑management website**. I designed the customer profiles with email verification and ticket‑booking functionality, added a customer review section for post‑event feedback, and integrated secure payments by building the checkout flow with the **Stripe API**. The frontend was done using **React JS**, backend was done using **Express JS**, and as a database **MongoDB** was integrated. 
 
-![Rong Platform](/assets/img/rong.png)
+![Rong Platform](/assets/img/rong.jpg)
 
 ### Collborative ChatGPT- Group Study with AI assistant
 
